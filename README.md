@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 Ahora mismo me desempeño como analista de datos en MO&PC-Argentina. <br />
-🌱 Actualmente aprendo RPA para un proyecto grande que estaré trabajando, cualquier consejo sobre el tema siempre es bienvenido. <br />
-⚡ Me gusta el tereré. <br />
+🔭 I'm working as Data Analyst at MO&PC Collections-Argentina. <br />
+🌱 I like math, statistics and all about data (even cleaning) . <br />
+⚡ I like Tereré. Do you know it? <br />
 
-# Estadísticas en proyectos públicos.
+# GitHub Stats at Public Projects.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeeds)](https://github.com/anuraghazra/github-readme-stats)
 
