@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🌱 I like math, statistics and all about data.
 ⚡ I like Tereré. Do you know it? <br />
 
-# GitHub Stats at Public Projects.
+# GitHub Stats on Public Projects.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeeds)](https://github.com/anuraghazra/github-readme-stats)
 
