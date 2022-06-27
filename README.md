@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I'm working as Data Scientist at MO&PC Collections-Argentina. <br />
+🔭 I'm working as a Data Scientist at MO&PC Collections-Argentina. <br />
 🌱 I like math, statistics and all about data.
 ⚡ I like Tereré. Do you know it? <br />
 
