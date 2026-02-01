@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 ## Here's a visual summary:
 
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=eeeds&show_icons=true&theme=tokyonight)
+
   ![My top languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=eeeds&layout=compact&theme=tokyonight)
-  ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eeeds&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)
 
